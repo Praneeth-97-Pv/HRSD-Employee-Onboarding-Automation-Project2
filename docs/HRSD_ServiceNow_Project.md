@@ -2,14 +2,14 @@
 
 | Document field | Details |
 | --- | --- |
-| Modules | HRSD, ITSM, ITOM, ITAM, CSM, GRC/IRM, SecOps, Service Portal, CMDB, PPM, TSOM |
+| Modules | HRSD, ITSM, ITOM, ITAM, Service Portal, CMDB |
 | Primary deep-dive | HR Service Delivery (HRSD) and HR integrations |
 | Document status | Portfolio-style reconstruction based on resume; not verified client internal design |
 | Screenshots | Six labeled synthetic ServiceNow-style examples are included; no live system captures were provided. |
 
 ## 1. Executive summary
 
-This project focuses on implementing and enhancing the ServiceNow platform to streamline enterprise service management processes across multiple modules, including HR Service Delivery (HRSD), IT Service Management (ITSM), IT Operations Management (ITOM), IT Asset Management (ITAM), Customer Service Management (CSM), and Configuration Management Database (CMDB).
+This project focuses on implementing and enhancing the ServiceNow platform to streamline enterprise service management processes across multiple modules, including HR Service Delivery (HRSD), IT Service Management (ITSM), IT Operations Management (ITOM), IT Asset Management (ITAM), and Configuration Management Database (CMDB).
 
 The primary objective is to automate business workflows, improve service delivery, reduce manual effort, and integrate ServiceNow with external systems such as Workday, SAP SuccessFactors, AWS CloudWatch, and other enterprise applications.
 
